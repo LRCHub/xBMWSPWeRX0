@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "くじら - 白鳥（Official Video）",
+  "base_artist": "くじら",
+  "createdAt": "2026-02-20T10:19:35.852907Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くじら",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/01_くじら_菅田将暉.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "くじら",
+      "artist": "Suda, Masaki",
+      "has_synced": true,
+      "path": "select/02_くじら_Suda,_Masaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "くじら",
+      "artist": "菅田 将暉",
+      "has_synced": true,
+      "path": "select/03_くじら_菅田_将暉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "くじら",
+      "artist": "菅田将晖",
+      "has_synced": true,
+      "path": "select/04_くじら_菅田将晖.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "くじら",
+      "artist": "Masaki Suda",
+      "has_synced": false,
+      "path": "select/05_くじら_Masaki_Suda.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "本当は夜の端まで、( feat.おおお & くじら)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/06_本当は夜の端まで、(_feat.おおお_&_くじら)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For ten minutes, for a hundred yen( feat.さとうもか & くじら)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/07_For_ten_minutes,_for_a_hundred_yen(_feat.さとうもか_&_くじら)_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白鳥",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_白鳥_くじら.txt"
+    }
+  ]
+}
